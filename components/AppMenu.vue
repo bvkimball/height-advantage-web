@@ -1,9 +1,9 @@
 <template>
   <hgroup class="menu">
-    <label><a href="./">Home</a></label>
-    <label><a href="./games">Games</a></label>
-    <label><a href="./about">About</a></label>
-    <label><a href="./contact">Contact</a></label>
+    <label><a href="/">Home</a></label>
+    <label><a href="/games">Games</a></label>
+    <label><a href="/about">About</a></label>
+    <label><a href="/contact">Contact</a></label>
   </hgroup>
 </template>
 
